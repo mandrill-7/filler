@@ -2,7 +2,7 @@
 
 ![filler](resources/filler.gif)
 
-I'm the white one ;)
+My player is the white one ;)
 
 ## About
 
