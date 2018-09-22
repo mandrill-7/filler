@@ -2,6 +2,8 @@
 
 ![filler](resources/filler.gif)
 
+I'm the white one ;)
+
 ## About
 
 Filler is a game, where two players / algorithm are fighting on a map.
